@@ -1,0 +1,5 @@
+{
+  "name": "Jamify - Social Music Player",
+  "description": "A Spotify-inspired music player with real-time 'Jam' functionality for synchronized playback across devices.",
+  "requestFramePermissions": ["microphone"]
+}
